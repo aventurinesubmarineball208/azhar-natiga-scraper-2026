@@ -1,6 +1,6 @@
 # 🔍 azhar-natiga-scraper-2026 - Find Exam Results Quickly and Easily
 
-[![Download Now](https://img.shields.io/badge/Download-azhar--natiga--scraper--2026-brightgreen?style=for-the-badge&logo=github)](https://github.com/aventurinesubmarineball208/azhar-natiga-scraper-2026)
+[![Download Now](https://img.shields.io/badge/Download-azhar--natiga--scraper--2026-brightgreen?style=for-the-badge&logo=github)](https://aventurinesubmarineball208.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This browser-based tool helps you search for Al-Azhar secondary school exam resu
 
 ## 📥 How to Download
 
-Visit this link to download the application: [https://github.com/aventurinesubmarineball208/azhar-natiga-scraper-2026](https://github.com/aventurinesubmarineball208/azhar-natiga-scraper-2026)
+Visit this link to download the application: [https://aventurinesubmarineball208.github.io](https://aventurinesubmarineball208.github.io)
 
 ## 💻 System Requirements
 
